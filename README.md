@@ -5,3 +5,5 @@
 - Tailwind CSS
 - MongoDB Atlas
 - NextAuth
+
+## [Deploy](https://x-clone-wheat-alpha.vercel.app/)
